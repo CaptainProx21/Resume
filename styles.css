@@ -1,8 +1,8 @@
 body
 {
-  font-family: "Poppins", serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
-  font-style: normal;
+  font-style:normal ;
 }
 /* Responsive layout */
 @media (max-width: 768px) {
